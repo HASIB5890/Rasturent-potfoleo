@@ -1,0 +1,58 @@
+.place {
+    font-size: 30px;
+ list-style: none;
+ font-family: 'Quintessential', cursive;
+}
+.Restaurant{
+padding-top: 30px;
+font-size: 20px;
+color: red;
+font-weight: bolder;
+}
+.good{
+    font-size: 80px;
+}
+.o{
+    transition: .3s;
+    color: red;
+}
+
+.fab{
+   transition: .3s;
+}
+.fab:hover{
+    transform: scale(1.5);
+}
+.header-img{
+    margin-top: 70px;
+}
+.sym{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 30px;
+}
+.about{
+    padding-left: 30px;
+}
+.feather{
+    text-align: center;
+}
+.card-img{
+
+    text-align: center;
+    padding: 10px;
+    height: 160px;
+    width: 130px;
+}
+
+.hh{
+    padding-left: 80px;
+    float: left;
+}
+
+.ff{
+    padding-left: 20px;
+}
+.card{
+padding-left: 30px;
+}
